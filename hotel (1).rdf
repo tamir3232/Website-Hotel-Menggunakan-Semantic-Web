@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/">
+        <dc:rooms rdf:resource="https://www.foyafoya.com/rooms/grand-deluxe" />
+        <dc:rooms rdf:resource="https://www.foyafoya.com/rooms/ultra-superior" />
+        <dc:rooms rdf:resource="https://www.foyafoya.com/rooms/classic" />
+        <dc:rooms rdf:resource="https://www.foyafoya.com/rooms/suite" />
+        <dc:rooms rdf:resource="https://www.foyafoya.com/rooms/superior" />
+        <dc:rooms rdf:resource="https://www.foyafoya.com/rooms/standard" />
+        <dc:rooms rdf:resource="https://www.foyafoya.com/rooms/deluxe" />
+        <dc:rooms rdf:resource="https://www.foyafoya.com/rooms/presidental-suite" />
+        <dc:rooms rdf:resource="https://www.foyafoya.com/rooms/foya-suite" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/grand-deluxe">
+        <dc:type>Grand Deluxe Rooms</dc:type>
+        <dc:price>IDR 2.000.000</dc:price>
+        <dc:review>4.7</dc:review>
+        <dc:guest>4</dc:guest>
+        <dc:reviewer>200</dc:reviewer>
+        <dc:description>Kamar Yang Memiliki fasilitas superlengkap dari televisi, air panas, ac, console game, kasur yang super besar, dan memiliki
+        pemandangan yang indah dari kamar, kamar ini sering sekali dipesan oleh orang yang memiliki waktu untuk bersantai dikamar.
+        </dc:description>
+        <dc:image>https://i.ibb.co/6wCWJVN/granddeluux.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/ultra-superior">
+        <dc:type>Ultra Superior Rooms</dc:type>
+        <dc:price>IDR 10.000.000</dc:price>
+        <dc:review>5.0</dc:review>
+        <dc:guest>5</dc:guest>
+        <dc:reviewer>220</dc:reviewer>
+        <dc:description>Kamar dengan kualitas bintang 10 ini memiliki banyak sekali kelebihan,dan yang membuat kamar ini menjadi kamar impian adalah terdapat
+        kolam renang di sebelah kamar, tamu bisa langsung berenang dengan senang hati. kami juga menyediakan tempat bermain di kamar ini bagi tamu yang memiliki anak anak.
+        lalu menyediakan breakfast yang super lezat.
+        </dc:description>
+        <dc:image>https://i.ibb.co/znxGwz6/ultrasuperior.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/classic">
+        <dc:type>Classic Rooms</dc:type>
+        <dc:price>IDR 500.000</dc:price>
+        <dc:review>4.7</dc:review>
+        <dc:guest>1</dc:guest>
+        <dc:reviewer>100</dc:reviewer>
+        <dc:description> kamar yang cukup classic dan simple terdiri dari tempat tidur dan perabotan lainnya, kamar ini sangat cocok bagi kalian yang ingin 
+        memakai hotel tapi hanya sebagai tempat istrahat saja.
+        </dc:description>
+        <dc:image>https://i.ibb.co/vL98g4y/classic.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/suite">
+        <dc:type>Suite Rooms</dc:type>
+        <dc:price>IDR 700.000</dc:price>
+        <dc:review>4.5</dc:review>
+        <dc:guest>3</dc:guest>
+        <dc:reviewer>300</dc:reviewer>
+        <dc:description>Kamar yagn memiliki interior seperti rumah sendiri dan kamar sendiri, membuat tamu nyaman dengan disediakananya tv yang bisa membuat para tamu senang</dc:description>
+        <dc:image>https://i.ibb.co/mJxFR0C/suit.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/superior">
+        <dc:type>Superior Rooms</dc:type>
+        <dc:price>IDR 1.000.000</dc:price>
+        <dc:review>4.7</dc:review>
+        <dc:guest>2</dc:guest>
+        <dc:reviewer>600</dc:reviewer>
+        <dc:description>Kamar yang menyediakan banyak hal dari tempat tidur yagn besar untuk kenyamanan si Tamu, lalu menyediakan balkon untuk duduk dan santai di kamar itu </dc:description>
+        <dc:image>https://i.ibb.co/zRKKYXJ/grandsuit.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/standard">
+        <dc:type>Standard Rooms</dc:type>
+        <dc:price>IDR 400.000</dc:price>
+        <dc:review>3.0</dc:review>
+        <dc:guest>2</dc:guest>
+        <dc:reviewer>150</dc:reviewer>
+        <dc:description>Kamar standa yang di pakai dan disediakan untuk para tamu  yang sedang transit di kota itu dan ingin bepergian lagi, kamar kami berikan dengan senyaman mungkin, walau harga yang cukup murah tapi kamari ini masih lah sangat nyaman</dc:description>
+        <dc:image>https://i.ibb.co/2qjMRg4/standart.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/deluxe">
+        <dc:type>Deluxe Rooms</dc:type>
+        <dc:price>IDR 1.200.000</dc:price>
+        <dc:review>4.5</dc:review>
+        <dc:guest>3</dc:guest>
+        <dc:reviewer>450</dc:reviewer>
+        <dc:description>Kamar yang di desain ala ala tropis, yang membuat si pengunjung berasa di dekat pulau pulau tropis yang hangat, kamar ini sangat lah sering di pakai jika pada musim panas</dc:description>
+        <dc:image>https://i.ibb.co/j6sZ4gv/deluxe.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/presidental-suite">
+        <dc:type>Presidental Suite Rooms</dc:type>
+        <dc:price>IDR 12.000.000</dc:price>
+        <dc:review>4.8</dc:review>
+        <dc:guest>5</dc:guest>
+        <dc:reviewer>300</dc:reviewer>
+        <dc:description>Kamar ini memiliki ruangan yagn sangat luas, dikarena kan terdapat ruang tamu, dapur, dan ruang rapat, kamar ini sering sekali di pakai untuk orang orang yang memang menggunakan nya untuk liburan, tempat kerja</dc:description>
+        <dc:image>https://i.ibb.co/CvgDjNJ/president-2.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/rooms/foya-suite">
+        <dc:type>Foya Suite Rooms</dc:type>
+        <dc:price>IDR 90.000.000</dc:price>
+        <dc:review>6.0</dc:review>
+        <dc:guest>1</dc:guest>
+        <dc:reviewer>2000</dc:reviewer>
+        <dc:description>Kamar yang di sediakan cuman untuk menghabiskan duit duit Para Tamu, dan ingin membuktikan seberapa kaya tamu tersebut</dc:description>
+        <dc:image>https://i.ibb.co/b793dBQ/foya.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/about-us/">
+        <foaf:crew rdf:resource="https://www.foyafoya.com/about-us/tamara" />
+        <foaf:crew rdf:resource="https://www.foyafoya.com/about-us/aldo" />
+        <foaf:crew rdf:resource="https://www.foyafoya.com/about-us/teguh" />
+        <foaf:crew rdf:resource="https://www.foyafoya.com/about-us/ridho" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/about-us/tamara">
+        <foaf:name>Tamir Rusydi Hega</foaf:name>
+        <foaf:nick>Tamara</foaf:nick>
+        <foaf:nim>201401069</foaf:nim>
+        <foaf:img>https://i.ibb.co/jr1Jz4c/Whats-App-Image-2021-11-17-at-4-57-55-PM.jpg</foaf:img>
+        <dc:quote>Marilah berfoya-foya bersamaku</dc:quote>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/about-us/aldo">
+        <foaf:name>Ewaldo</foaf:name>
+        <foaf:nick>Aldo</foaf:nick>
+        <foaf:nim>201401048</foaf:nim>
+        <foaf:img>https://i.ibb.co/44HQtN7/Whats-App-Image-2021-11-17-at-10-16-01-PM.jpg</foaf:img>
+        <dc:quote>Aduh, uhh, apa ya</dc:quote>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/about-us/teguh">
+        <foaf:name>Muhammad Teguh Sinulingga</foaf:name>
+        <foaf:nick>Teguh</foaf:nick>
+        <foaf:nim>201401057</foaf:nim>
+        <foaf:img>https://i.ibb.co/z5X58RH/Whats-App-Image-2021-11-18-at-12-19-58-PM.jpg</foaf:img>
+        <dc:quote>EasyRDF tidak easy sama sekali</dc:quote>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/about-us/ridho">
+        <foaf:name>Muhammad Ridho Baihaki</foaf:name>
+        <foaf:nick>Ridho</foaf:nick>
+        <foaf:nim>201401054</foaf:nim>
+        <foaf:img>https://i.ibb.co/XbB13Sg/Whats-App-Image-2021-11-17-at-10-38-14-PM.jpg</foaf:img>
+        <dc:quote>jangan lupa makan</dc:quote>
+    </rdf:Description>
+</rdf:RDF>
